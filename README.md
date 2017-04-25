@@ -1,6 +1,6 @@
 # npmdoc-crawler-js
 
-#### api documentation for  [crawler-js (v2.0.1)](http://github.com/CrawlerJS/CrawlerJS)  [![npm package](https://img.shields.io/npm/v/npmdoc-crawler-js.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-crawler-js) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-crawler-js.svg)](https://travis-ci.org/npmdoc/node-npmdoc-crawler-js)
+#### basic api documentation for  [crawler-js (v2.0.1)](http://github.com/CrawlerJS/CrawlerJS)  [![npm package](https://img.shields.io/npm/v/npmdoc-crawler-js.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-crawler-js) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-crawler-js.svg)](https://travis-ci.org/npmdoc/node-npmdoc-crawler-js)
 
 #### Opensource Framework Crawler in Node.js
 
@@ -67,7 +67,8 @@
         "type": "git",
         "url": "git://github.com/CrawlerJS/CrawlerJS.git"
     },
-    "version": "2.0.1"
+    "version": "2.0.1",
+    "bin": {}
 }
 ```
 
